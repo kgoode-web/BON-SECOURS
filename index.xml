@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 
-<?xml-stylesheet type="text/css" href="mystyle.css"> 
+<?xml-stylesheet type="text/css" href="https://github.com/kgoode-web/BON-SECOURS/blob/master/mystyle.css"> 
 
 <!DOCTYPE faq  [
 <!ELEMENT faq (header)>
@@ -76,4 +76,4 @@ Frequently Asked Questions
 </contact>
 	
 </faq>
-</?xml-stylesheet type="text/css" href="mystyle.css">
+
